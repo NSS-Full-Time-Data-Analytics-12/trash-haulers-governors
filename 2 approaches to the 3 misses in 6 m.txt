@@ -1,0 +1,12 @@
+2 approaches to the 3 misses in 6 months
+
+others
+create a window that was 6 months long
+then test if 3 misses appear in that 6 month window
+
+
+dougb code
+lists missed pickup complaints in time order
+measures the time between 3 sequential missed pickups
+if the time between is 6 months or less 
+then add one to the count of fines

@@ -1,0 +1,20 @@
+report of trash haulers
+
+explain the setting (the situation) (where the data comes from)
+
+explain what the city of nashville asked us to analyze
+
+(what questions do they need answered?)
+
+explain how we cleaned up the data
+
+make addresses consistent
+
+find where there are missed pickup complaints 3 or more times per address
+(from 20,000 aprox. to 6000 aprox)
+
+fill in blank trash haulers, zip codes, routes for more accurate analysis
+
+original was 20000 then all missed complaints was 18000 then finable was about 6000
+
+use the finable data to make a more detailed comparison of trash haulers and routes
